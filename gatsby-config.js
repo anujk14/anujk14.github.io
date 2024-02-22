@@ -12,8 +12,7 @@ module.exports = {
     title: `Anuj Khandelwal`,
     author: {
       name: `Anuj Khandelwal`,
-      summary: `I am a software developer based out of Mumbai, India.
-      In my free time, I love playing music, running, and watching sports. Welcome to my little corner on the internet. Hope you have fun!`,
+      summary: `I am a software developer based out of Mumbai, India. In my free time, I love playing music, running, and watching sports. Welcome to my little corner on the internet!`,
     },
     description: `Personal website of Anuj Khandelwal. Place for blogs and discussions related to software development, music, running, and life`,
     siteUrl: `https://www.anujkhandelwal.com/`,
