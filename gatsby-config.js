@@ -12,12 +12,14 @@ module.exports = {
     title: `Anuj Khandelwal`,
     author: {
       name: `Anuj Khandelwal`,
-      summary: `who's finding his way around!`,
+      summary: `I am a software developer based out of Mumbai, India.
+      In my free time, I love playing music, running, and watching sports. Welcome to my little corner on the internet. Hope you have fun!`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Personal website of Anuj Khandelwal. Place for blogs and discussions related to software development, music, running, and life`,
+    siteUrl: `https://www.anujkhandelwal.com/`,
     social: {
-      twitter: `kylemathews`,
+      github: `anujk14`,
+      linkedin: `anuj-khandelwal-2a7151103`
     },
   },
   plugins: [
